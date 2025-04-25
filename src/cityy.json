@@ -1,0 +1,56 @@
+{
+   "citylist": [
+        [
+          [""],
+          [
+            "Agra",
+            "Baddi",
+            "Bagalkot",
+            "Bathinda",
+            "Chandigarh",
+            "Chennai",
+            "Dehradun",
+            "Delhi"
+          ]
+        ],
+        [
+          [""],
+          [
+            "Faridabad",
+            "Fatehabad",
+            "Fatehpur Sikri",
+            "Gurgaon",
+            "Guwahati",
+            "Hyderabad",
+            "Lucknow",
+            "Ludhiana"
+          ]
+        ],
+        [
+          [""],
+          [
+            "Malkapur",
+            "Malout",
+            "Malpura",
+            "Malur",
+            "Manachanallur",
+            "Manasa",
+            "Nagpur",
+            "Nahan"       
+          ]
+        ],
+        [
+          [""],
+          [
+            "Sandi",
+            "Sangaria",
+            "Thiruvananthapuram",
+            "Thiruvarur",
+            "Udaipur",
+            "Varanasi",
+            "Yamunanagar",
+            "Zirakpur"
+          ]
+        ]
+      ]
+}
